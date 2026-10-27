@@ -1,0 +1,14 @@
+{
+  "version": "2.0",
+  "routeKey": "GET /documentos",
+  "rawPath": "/documentos",
+  "queryStringParameters": {
+    "curso": "AWS-101"
+  },
+  "requestContext": {
+    "http": {
+      "method": "GET",
+      "path": "/documentos"
+    }
+  }
+}
